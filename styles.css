@@ -1,6 +1,6 @@
 /* Add styles for the navigation */
 nav {
-    background-color: #f2f2f2;
+    background-color: #27c2a3 ;
     padding: 20px;
   }
   
@@ -47,7 +47,7 @@ nav {
     background-color: #333;
     color: #fff;
     text-decoration: none;
-    border-radius: 5px;
+    border-radius: 10px;
   }
   
   /* Add styles for the featured items section */
